@@ -1,0 +1,20 @@
+header {
+	background: red;
+	height: 70px;
+	width: 100%;
+	position: absolute;
+	top: 0;
+}
+
+footer {
+	background: green;
+	height: 60px;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+div {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
