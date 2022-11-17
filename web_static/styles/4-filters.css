@@ -1,0 +1,39 @@
+.container {
+	width: 700px;
+	position: absolute;
+	top: 100px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.container {
+	max-width: 1000px;
+	position: absolute;
+	top: 100px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.container .filters {
+	background: white;
+	height: 70px;
+	width: 100%;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+}
+
+button {
+	font-size: 18px;
+	background: #FF5A5F;
+	color: #FFFFFF;
+	height: 48px;
+	width: 20%;
+	border: 0;
+	border-radius: 4px;
+	float: right;
+	margin-right: 30px;
+	margin-top: 11px;
+	opacity: 1;
+}
+button:hover {
+	opacity: 0.9;
+}
