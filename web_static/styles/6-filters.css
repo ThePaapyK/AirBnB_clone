@@ -1,5 +1,5 @@
 .container {
-	width: 700px;
+	width: 1000px;
 	position: absolute;
 	top: 100px;
 	left: 50%;
@@ -14,6 +14,7 @@
 }
 
 .container .filters {
+	position: relative;
 	background: white;
 	height: 70px;
 	width: 100%;
